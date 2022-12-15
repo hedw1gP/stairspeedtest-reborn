@@ -1,4 +1,4 @@
-trigger actions
+trigger actions sry forget enable actions
 
 # Stair Speedtest Reborn
 **Proxy performance batch tester based on Shadowsocks(R), V2Ray and Trojan**  
