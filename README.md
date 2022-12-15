@@ -1,3 +1,5 @@
+trigger actions
+
 # Stair Speedtest Reborn
 **Proxy performance batch tester based on Shadowsocks(R), V2Ray and Trojan**  
 [![Build Status](https://github.com/tindy2013/stairspeedtest-reborn/actions/workflows/build.yml/badge.svg)](https://github.com/tindy2013/stairspeedtest-reborn/actions/workflows/build.yml)
